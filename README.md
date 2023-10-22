@@ -1,3 +1,10 @@
+https://github.com/wanghaisheng/localpdfmerger
+
+https://github.com/wanghaisheng/wechat2pdf
+
+
+
+
 # WASM-PDF
 ## Generates PDF files directly in the browser with JavaScript and WASM (WebAssembly).
 
